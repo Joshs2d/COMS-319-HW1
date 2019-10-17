@@ -1,0 +1,8 @@
+(NOTE: Make sure to pin the Server and Client Consoles in order to see the processes of both when using multiple consoles)
+
+Access code: "4444"
+
+1. Run ServerChat.java
+2. Run ClientChat.java
+3. Enter Username and access code listed above.
+4. Enter messages into the server (Do this for as many users as you'd like)
